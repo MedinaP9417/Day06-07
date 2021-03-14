@@ -1,0 +1,21 @@
+h3 {
+    text-align: center;
+    color: red;
+}
+
+main {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+a {
+    color: royalblue;
+    text-decoration: none;
+}
+
+img {
+    display: inline-block;
+    width: 100%;
+    padding: 20px;
+    justify-items: self-start
+}
